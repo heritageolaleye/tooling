@@ -6,7 +6,7 @@
 
 ## Introduction
 
-### Edited
+### Edited by Heritage Olaleye
 
 This repository hosts the code for the StegTechHub tooling website. The website provides a centralized platform for accessing various development tools and resources.
 
@@ -26,6 +26,7 @@ The project leverages the following technologies:
 - **Other:**
   - Docker (For containerization)
   - Composer (For PHP dependency management)
+  - Jenkins
 
 ### Versioning
 
