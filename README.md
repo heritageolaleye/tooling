@@ -22,15 +22,11 @@ The project leverages the following technologies:
 - **Frontend:**
   - HTML
   - CSS
-  - CSS
-  - CSS
   - Tailwind CSS (Utility-first CSS framework)
 - **Other:**
   - Docker (For containerization)
   - Composer (For PHP dependency management)
-  - Jenkins
-  - jenkins
-  - jenkins
+    
 
 ### Versioning
 
