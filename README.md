@@ -27,6 +27,8 @@ The project leverages the following technologies:
   - Docker (For containerization)
   - Composer (For PHP dependency management)
   - Jenkins
+  - jenkins
+  - jenkins
 
 ### Versioning
 
