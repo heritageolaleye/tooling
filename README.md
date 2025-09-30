@@ -15,6 +15,7 @@ This repository hosts the code for the StegTechHub tooling website. The website 
 The project leverages the following technologies:
 
 - **Backend:**
+- Backend
   
   - PHP 8.3
   - MySQL
